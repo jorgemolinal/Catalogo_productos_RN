@@ -6,7 +6,7 @@ La pagina que muestra el catalogo de productos
 ![Image text](link)
 
 y la pagina que muestra el producto
-![Image text](link)
+![Image text](https://github.com/jorgemolinal/Catalogo_productos_RN/blob/main/miscapturas/Screenshot_2022-10-23-01-33-20-095.jpg)
 
 
 >PARA ARRANCAR
