@@ -1,4 +1,4 @@
-Practica 3 de la asignatura Computación Red (react native)
+Práctica de la asignatura Ingeniería Web de la ETSIT **(react native)**
 
 Consiste en adaptar la practica 2 de la asignatura llamada [Catalogo-Productos](https://github.com/jorgemolinal/Catalogo-Productos)
 
