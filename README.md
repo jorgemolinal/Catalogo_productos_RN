@@ -7,3 +7,12 @@ La pagina que muestra el catalogo de productos
 
 y la pagina que muestra el producto
 ![Image text](link)
+
+
+>PARA ARRANCAR
+
+- cd react-native-course
+- npm start # you can open iOS, Android, or web from here, or run them directly with the commands below.
+- pm run android
+- pm run ios # requires an ios device or macOS for access to an iOS simulator
+- pm run web
